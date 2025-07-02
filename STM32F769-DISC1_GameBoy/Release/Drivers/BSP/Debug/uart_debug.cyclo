@@ -1,0 +1,7 @@
+../Drivers/BSP/Debug/uart_debug.c:42:6:UART_Init	1
+../Drivers/BSP/Debug/uart_debug.c:63:6:UART_task	5
+../Drivers/BSP/Debug/uart_debug.c:89:9:UART_isDataRecived	1
+../Drivers/BSP/Debug/uart_debug.c:95:9:UART_GetStr	2
+../Drivers/BSP/Debug/uart_debug.c:114:6:UART_Put	2
+../Drivers/BSP/Debug/uart_debug.c:34:2:__io_putchar	1
+../Drivers/BSP/Debug/uart_debug.c:104:6:UART_PutStr	2

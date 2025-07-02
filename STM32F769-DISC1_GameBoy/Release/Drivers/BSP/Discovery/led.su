@@ -1,0 +1,9 @@
+../Drivers/BSP/Discovery/led.c:35:6:BSP_LED_Init	48	static
+../Drivers/BSP/Discovery/led.c:61:6:BSP_LED_DeInit	16	static
+../Drivers/BSP/Discovery/led.c:79:6:BSP_LED_On	0	static
+../Drivers/BSP/Discovery/led.c:91:6:BSP_LED_Off	0	static
+../Drivers/BSP/Discovery/led.c:103:6:BSP_LED_Toggle	0	static
+../Drivers/BSP/Discovery/led.c:111:6:BSP_LED_Init_All	8	static
+../Drivers/BSP/Discovery/led.c:118:6:BSP_LED_On_All	8	static
+../Drivers/BSP/Discovery/led.c:124:6:BSP_LED_Off_All	8	static
+../Drivers/BSP/Discovery/led.c:130:6:BSP_LED_Toggle_All	8	static

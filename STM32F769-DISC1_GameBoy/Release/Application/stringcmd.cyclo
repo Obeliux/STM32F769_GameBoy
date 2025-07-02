@@ -1,0 +1,13 @@
+../Application/stringcmd.c:13:6:getWord	9
+../Application/stringcmd.c:64:9:isStrEqual	4
+../Application/stringcmd.c:76:9:isSubStrEqual	3
+../Application/stringcmd.c:87:6:strCopy	3
+../Application/stringcmd.c:98:10:strLen	3
+../Application/stringcmd.c:50:6:strCat	3
+../Application/stringcmd.c:109:9:AreNumbers	3
+../Application/stringcmd.c:119:9:isNumber	5
+../Application/stringcmd.c:132:9:str2num	4
+../Application/stringcmd.c:155:6:num2str	4
+../Application/stringcmd.c:180:10:num2binary	8
+../Application/stringcmd.c:195:9:bit_test	1
+../Application/stringcmd.c:202:6:float2str	10
